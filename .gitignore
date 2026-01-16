@@ -14,3 +14,9 @@ mlflow/
 mlruns/
 mlflow.db
 *.sqlite
+
+
+# =========================
+# Custom Files
+# =========================
+commands.txt
